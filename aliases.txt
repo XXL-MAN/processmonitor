@@ -3,3 +3,4 @@ alias prunbin=/usr/bin/prunbin.sh
 alias pmonitor=/usr/bin/pmonitor.sh
 alias status='/usr/bin/status.sh'
 alias telegrame='/usr/bin/telegrame.sh'
+alias telegramfile='/usr/bin/telegramfile.sh'
