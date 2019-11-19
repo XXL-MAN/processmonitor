@@ -8,8 +8,8 @@ if [ -z "$1" ]
 fi
 
 #CUSTOM VARS
-bot_apikey=$"783574602:AAGXLI7bS60IWSO7EPVOF1IeGnWigGnKDXc"
-chat_id=$"780495932"
+bot_apikey=$"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+chat_id=$"XXXXXXXXXXXX"
 
 #url
 url=$"https://api.telegram.org/bot"
