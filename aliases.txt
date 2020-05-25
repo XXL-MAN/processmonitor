@@ -4,3 +4,4 @@ alias pmonitor=/usr/bin/pmonitor.sh
 alias status='/usr/bin/status.sh'
 alias telegrame='/usr/bin/telegrame.sh'
 alias telegramfile='/usr/bin/telegramfile.sh'
+alias path='echo $PATH | tr ':' '\n''
